@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .big{display: inline-flex;background-color: bisque;padding-right: 540px;text-align: center;}
+    .b1{margin: 15px;background-color: rgb(15, 165, 153);}
+    .b2{margin: 15px;}
+    .b3{margin-left: 150px; background-color: darkslategray;}
+    .b1 h1{margin-bottom: 912px;}
+</style>
+<body>
+    <div class="big">
+<div class="b1">
+    <h1>WELCOME TO OUR SPECTACULAR WORLD        
+    </h1>
+    <h1 class="a1">IBM</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeQCEI8DGNQgQXm2D7YbxAYB6lOdgSt90d1Q&usqp=CAU" alt="n/a" height="350px" >
+</div>
+<div class="b2">
+<img src="https://assets.worldbenchmarkingalliance.org/app/uploads/2021/10/WBA-seafood-key-finding-Addressing-on-board-working-and-living-conditions.svg" alt="hgh" height="30%">
+
+</div>
+<div class="b3"><ol>
+    <ul><a href="home.html">Accelerate responsible, transparent and explainable workflows for generative AI built on third-party platforms
+
+    </a></ul>
+    <ul><a href="home.html">From our flagship products for enterprise hybrid cloud infrastructure to next-generation AI, security and storage solutions, find the answer to your business challenge.v</a></ul>
+    <a href="home,html">view benefits</a>
+
+
+</ol>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul> 
+<ul><ol>.</ol></ul> 
+   <ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul> 
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul> 
+<ul><ol>.</ol></ul>  
+  <ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol>.</ol></ul>
+<ul><ol><input type="checkbox" name="Terms&Conditions" id="">Terms&Conditions</ol></ul> 
+
+
+
+</div>
+    </div>
+</body>
+</html>
